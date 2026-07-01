@@ -1,3 +1,4 @@
+opencv-python
+runpod
 paddleocr
 paddlepaddle
-opencv-python
